@@ -58,7 +58,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/Products1.png?raw=true)
-  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/Products2.jpg?raw=true)
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/Products3.jpeg?raw=true)
 
 - **Sprint Review**: 
