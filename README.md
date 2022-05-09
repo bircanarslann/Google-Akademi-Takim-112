@@ -41,9 +41,9 @@ Takım 112
 
 - **Sprint Notları**: 1. Sprint'te oyun planları, asset tasarımları ve seviye hikayeleri hazırlanmıştır. Ardından assetlerin oyun sahnesinde testleri gerçekleştirilmiştir. Product backlog item'lara tıklandığında görevlerin detaylarına ulaşılabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -61,7 +61,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/Products3.jpeg?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Asset çizimlerinden dolayı karakter animasyonlarının tamamlanması ve diğer seviyelerin tasarımları diğer sprint'e aktarılmıştır. Seviyelere ekstra koyulması gereken özellikler belirlenmiştir. 
+Alınan kararlar: Ekip üyesinin ayrılmasından dolayı oyun giriş ekranı tasarımı (8 story point) diğer sprint'e aktarılmıştır. Seviyelere ekstra koyulması gereken özellikler belirlenmiştir. 
 Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
 
 - **Sprint Retrospective:**
