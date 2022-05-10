@@ -52,9 +52,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
 - **Daily Scrum**: Daily Scrum toplantıları bayram tatilleri ve başlangıçta ekip üyelerine ulaşmanın zorluğu nedeniyle Google Meet ve Whatsapp üzerinden karışık olarak gerçekleştirilmiştir. Daily Scrum toplantıları örneği (toplantı gündemleri, toplantı sonuçları, konuşmalar vb.) jpeg ve word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint1Documents/Backlog1.jpg) 
-![Backlog 2](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint1Documents/Backlog2.jpg) 
-![Backlog 3](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint1Documents/Backlog3.jpg)
+![Backlog 1]() 
+![Backlog 2]() 
+![Backlog 3]()
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/Products1.png?raw=true)
