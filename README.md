@@ -43,11 +43,11 @@ Takım 112
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken renkler yapılacak işlerin (task) önceliklerine göre verilmiştir. Kırmızı item'lar high, turuncu seviye medium, mavi ise low seviye olarak önceliklendirilmiştir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantıları bayram tatilleri ve başlangıçta ekip üyelerine ulaşmanın zorluğu nedeniyle Google Meet ve Whatsapp üzerinden karışık olarak gerçekleştirilmiştir. Daily Scrum toplantıları örneği (toplantı gündemleri, toplantı sonuçları, konuşmalar vb.) jpeg ve word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
