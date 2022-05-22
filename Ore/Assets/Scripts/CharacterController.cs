@@ -9,6 +9,7 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private SpriteRenderer _spriteRenderer;
 
     [SerializeField] private float _movementSpeed;
+    [SerializeField] private float _jumpPower;
 
     private bool _isRunning;
     private bool _isGrounded;
@@ -48,6 +49,6 @@ public class CharacterController : MonoBehaviour
     private void Jump()
     {
         _spriteRenderer.flipX = false;
-        _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, 5);
+        _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, _jumpPower);
     }
 }
