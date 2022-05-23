@@ -90,11 +90,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
 ![Backlog 3](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint2Documents/Backlog3.jpg?raw=true)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products1.jpeg?raw=true)
-  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products2.jpeg?raw=true)
+  ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products2.jpeg?raw=true)
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products3.jpeg?raw=true)
-  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products4.jpeg?raw=true)
-  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products5.png?raw=true)
+  ![Screenshot 3](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products4.jpeg?raw=true)
+  ![Screenshot 4](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products1.jpeg?raw=true)
+  ![Screenshot 5](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products5.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Oyun giriş ekranı tasarımı (8 story point) bitiş ekranı ile birlikte yapılması için son sprint'e aktarılmıştır. Boss tasarımı düşünülmüştür. 
