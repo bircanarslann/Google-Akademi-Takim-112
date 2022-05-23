@@ -76,7 +76,7 @@ Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 68 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi. Diğer sprintten kalan 8 puan ile 68 puan hedeflenmektedir.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 1. sprintte 52 tanesi tamamlandığı için 2. sprintte hedef  diğer sprintten kalan 8 puan ile birlikte 68 puandır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -90,11 +90,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
 ![Backlog 3](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint2Documents/Backlog3.jpg?raw=true)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products1.png?raw=true)
+  ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products1.jpeg?raw=true)
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products2.jpeg?raw=true)
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products3.jpeg?raw=true)
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products4.jpeg?raw=true)
-  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products5.jpeg?raw=true)
+  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products5.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Oyun giriş ekranı tasarımı (8 story point) bitiş ekranı ile birlikte yapılması için son sprint'e aktarılmıştır. Boss tasarımı düşünülmüştür. 
