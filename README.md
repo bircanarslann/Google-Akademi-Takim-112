@@ -97,7 +97,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
   ![Screenshot 5](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint2Documents/Products5.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Oyun giriş ekranı tasarımı (8 story point) bitiş ekranı ile birlikte yapılması için son sprint'e aktarılmıştır. Boss tasarımı düşünülmüştür. 
+Alınan kararlar: Oyun giriş ekranı tasarımı (8 story point) bitiş ekranı ile birlikte yapılması için son sprint'e aktarılmıştır. Boss tasarımı ve 3. seviye tasarımı düşünülmüştür. 
+
 Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
 
 - **Sprint Retrospective:**
