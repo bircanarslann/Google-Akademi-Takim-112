@@ -5,11 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class LevelRestart : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    public void Restart()
     {
-        if (collision.CompareTag("Player"))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
+        
 }

@@ -1,13 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Character : MonoBehaviour
 {
+    [SerializeField] private GameObject _restartScreen;
     [SerializeField] private SpriteRenderer _firePrefab;
     [SerializeField] private SpriteRenderer _spriteRenderer;
+    [SerializeField] private Image[] _lives;
 
     [SerializeField] private int _fireForce;
+
+    private int _live = 3;
 
     private void Update()
     {
@@ -16,14 +21,19 @@ public class Character : MonoBehaviour
             Fire();
         }
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy"))
         {
-            
+            _lives[3 - _live].enabled = false;
+            _live--;
+            if (_live <= 0)
+            {
+                Die();
+            }
         }
     }
+    
 
     private void Fire()
     {
@@ -40,5 +50,11 @@ public class Character : MonoBehaviour
             go.GetComponent<Rigidbody2D>().AddForce(Vector2.left * _fireForce);
             go.GetComponent<SpriteRenderer>().flipX = false;
         }
+    }
+
+    private void Die()
+    {
+        _restartScreen.SetActive(true);
+        Destroy(gameObject);
     }
 }
