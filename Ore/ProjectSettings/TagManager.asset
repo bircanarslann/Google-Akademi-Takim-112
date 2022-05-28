@@ -7,6 +7,7 @@ TagManager:
   - FinishPoint
   - Fire
   - Enemy
+  - EnemyFire
   layers:
   - Default
   - TransparentFX

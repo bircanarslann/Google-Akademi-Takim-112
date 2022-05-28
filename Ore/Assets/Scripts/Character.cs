@@ -32,6 +32,17 @@ public class Character : MonoBehaviour
                 Die();
             }
         }
+        if (collision.gameObject.CompareTag("EnemyFire"))
+        {
+            Destroy(collision.gameObject);
+            _lives[3 - _live].enabled = false;
+            _live--;
+            if (_live <= 0)
+            {
+                Die();
+            }
+        }
+
     }
     
 
