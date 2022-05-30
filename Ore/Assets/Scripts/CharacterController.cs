@@ -14,9 +14,13 @@ public class CharacterController : MonoBehaviour
     private bool _isRunning;
     private bool _isGrounded;
 
+    private bool _isFinished;
+
 
     private void Update()
     {
+        if (_isFinished) return;
+
         var horizontal = Input.GetAxis("Horizontal");
         var jump = Input.GetKeyDown(KeyCode.Space);
 
@@ -50,5 +54,12 @@ public class CharacterController : MonoBehaviour
     {
         _spriteRenderer.flipX = false;
         _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, _jumpPower);
+    }
+
+    public void Finish()
+    {
+        _isFinished = true;
+        _rigidbody.velocity = new Vector2(0, 3);
+        _rigidbody.gravityScale = 0;
     }
 }

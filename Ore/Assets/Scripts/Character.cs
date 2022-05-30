@@ -68,4 +68,5 @@ public class Character : MonoBehaviour
         _restartScreen.SetActive(true);
         Destroy(gameObject);
     }
+
 }
