@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 6351012903192000664}
   m_Layer: 0
   m_Name: Character
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,6 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bafc6e0d61c8b1e41ab68f30d830e774, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _restartScreen: {fileID: 0}
   _firePrefab: {fileID: 8645549798851072755, guid: d87d70df29895de4682a2c367e5be6d7, type: 3}
   _spriteRenderer: {fileID: 6351012903192000667}
   _lives: []
