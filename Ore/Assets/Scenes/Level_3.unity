@@ -978,12 +978,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -1538,15 +1538,27 @@ PrefabInstance:
     - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
       propertyPath: _lives.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1725496242}
     - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
       propertyPath: _lives.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 779877778}
     - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
       propertyPath: _lives.Array.data[2]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1562537051}
+    - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
+      propertyPath: _lives.Array.data[3]
+      value: 
+      objectReference: {fileID: 1562537051}
+    - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
+      propertyPath: _lives.Array.data[4]
+      value: 
+      objectReference: {fileID: 1562537051}
+    - target: {fileID: 6351012903192000670, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
+      propertyPath: _lives.Array.data[5]
+      value: 
+      objectReference: {fileID: 1562537051}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83d025a147f4d6e4caca2026d19704a5, type: 3}
 --- !u!1 &1373786076
