@@ -15,6 +15,7 @@ public class LevelRestart : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             Restart();
+            SoundManagerScript.PlaySound("oyuncudüþme");
         }
     }
 

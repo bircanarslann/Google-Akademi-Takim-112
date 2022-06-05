@@ -29,16 +29,36 @@ public class CharacterController : MonoBehaviour
         {
             _spriteRenderer.flipX = false;
             _animator.SetBool("IsRunning", true);
+
+            if (!_isRunning)
+            {
+                SoundManagerScript.PlaySound("oyuncuyürüme");
+                _isRunning = true;
+            }
+
             _rigidbody.velocity = new Vector2(_movementSpeed, _rigidbody.velocity.y);
         }
         else if(horizontal < 0)
         {
             _spriteRenderer.flipX = true;
             _animator.SetBool("IsRunning", true);
+
+            if (!_isRunning)
+            {
+                SoundManagerScript.PlaySound("oyuncuyürüme");
+                _isRunning = true;
+            }
+
             _rigidbody.velocity = new Vector2(-_movementSpeed, _rigidbody.velocity.y);
         }
         else
         {
+            if (_isRunning)
+            {
+                SoundManagerScript.StopSound();
+                _isRunning = false;
+            }
+
             _animator.SetBool("IsRunning", false);
             _rigidbody.velocity = new Vector2(0, _rigidbody.velocity.y);
         }
@@ -52,6 +72,7 @@ public class CharacterController : MonoBehaviour
 
     private void Jump()
     {
+        SoundManagerScript.PlaySound("oyuncuzýplama");
         _spriteRenderer.flipX = false;
         _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, _jumpPower);
     }

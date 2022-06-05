@@ -48,6 +48,8 @@ public class Character : MonoBehaviour
 
     private void Fire()
     {
+        SoundManagerScript.PlaySound("oyuncuateþ");
+
         if (!_spriteRenderer.flipX)
         {
             var go = Instantiate(_firePrefab.gameObject, transform);
