@@ -144,6 +144,7 @@ Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
  
 ---
 Yararlanılan ekstra assetler:
+
 -Giriş arkaplan:
 https://assetstore.unity.com/packages/tools/gui/main-menu-with-parallax-effect-free-89451#description
 
