@@ -105,3 +105,39 @@ Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
   - Kodlama için görev dağılımı tekrar gözden geçirilmiştir.
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalıdır.
 
+---
+# Sprint 3
+
+- **Sprint Notları**: 3. Sprint'te yeni sahneler hazırlanmıştır. Ardından sahneler oyun alanına eklenmiştir.  Giriş, bitiş ve ara menü seçenkleri eklenmiştir. Boss eklenmiş, boss hasar verme eklenmilştir. Müzikler eklenmiştir. Oyun bittikten sonra oyun sonu testi yapılmıştır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 68 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 180 puanlık backlog bulunmaktadır. 2. sprintte 60 tanesi tamamlanmış fakat 1. sprintten kalan 8 puan 3. sprinte aktarıldığı için 68 puan hedeflenmiştir. 
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantıları Google Meet ve Whatsapp üzerinden karışık olarak gerçekleştirilmiştir. Daily Scrum toplantıları örneği (toplantı gündemleri, toplantı sonuçları, konuşmalar vb.) jpeg ve word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint3Documents/Backlog1.jpg?raw=true) 
+![Backlog 2](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint3Documents/Backlog2.jpg?raw=true) 
+![Backlog 3](https://raw.githubusercontent.com/bircanarslann/Google-Akademi-Takim-112/main/ProjectManagement/Sprint3Documents/Backlog3.jpg?raw=true)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products1.jpeg?raw=true)
+  ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products2.jpeg?raw=true)
+  ![Screenshot 3](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products3.jpeg?raw=true)
+  ![Screenshot 4](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products4.jpeg?raw=true)
+  ![Screenshot 5](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products5.png?raw=true)
+  ![Screenshot 6](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products6.jpeg?raw=true)
+  ![Screenshot 7](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products7.jpeg?raw=true)
+  ![Screenshot 8](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products8.jpeg?raw=true)
+
+- **Sprint Review**: 
+Alınan kararlar: Tüm planlamalara uyulmuş ve proje başarı ile hayata geçirilmiştir. Oyun videosu ile ilgili planlama yapılmıştır.
+Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
+
+- **Sprint Retrospective:**
+  - Tüm planlamalara uyulmuş ve proje başarı ile hayata geçirilmiştir.
