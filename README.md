@@ -144,9 +144,9 @@ Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
  
 ---
 Yararlanılan ekstra assetler:
-Giriş arkaplan:
+-Giriş arkaplan:
 https://assetstore.unity.com/packages/tools/gui/main-menu-with-parallax-effect-free-89451#description
-Ara menü iconlar:
+-Ara menü iconlar:
 https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838#description
-Boss asset:
+-Boss asset:
 https://darkpixel-kronovi.itch.io/mecha-golem-free
