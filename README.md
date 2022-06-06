@@ -130,7 +130,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
   ![Screenshot 2](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products2.jpeg?raw=true)
   ![Screenshot 3](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products3.jpeg?raw=true)
   ![Screenshot 4](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products4.jpeg?raw=true)
-  ![Screenshot 5](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products5.png?raw=true)
+  ![Screenshot 5](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products5.jpeg?raw=true)
   ![Screenshot 6](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products6.jpeg?raw=true)
   ![Screenshot 7](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products7.jpeg?raw=true)
   ![Screenshot 8](https://github.com/bircanarslann/Google-Akademi-Takim-112/blob/main/ProjectManagement/Sprint3Documents/Products8.jpeg?raw=true)
