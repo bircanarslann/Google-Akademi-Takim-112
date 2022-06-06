@@ -138,6 +138,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Story'ler yapılacak 
 - **Sprint Review**: 
 Alınan kararlar: Tüm planlamalara uyulmuş ve proje başarı ile hayata geçirilmiştir. Oyun videosu ile ilgili planlama yapılmıştır.
 Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
-
+ 
 - **Sprint Retrospective:**
   - Tüm planlamalara uyulmuş ve proje başarı ile hayata geçirilmiştir. Ekip tüm plana uymuş ve verilen tüm görevleri yerine getirmiştir.
