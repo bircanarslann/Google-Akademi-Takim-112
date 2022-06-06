@@ -108,7 +108,7 @@ Sprint Review katılımcıları: Bircan Arslan, Mustafa Eren Mihyaz, Umut Damat
 ---
 # Sprint 3
 
-- **Sprint Notları**: 3. Sprint'te yeni sahneler hazırlanmıştır. Ardından sahneler oyun alanına eklenmiştir.  Giriş, bitiş ve ara menü seçenkleri eklenmiştir. Boss eklenmiş, boss hasar verme eklenmilştir. Müzikler eklenmiştir. Oyun bittikten sonra oyun sonu testi yapılmıştır.
+- **Sprint Notları**: 3. Sprint'te yeni sahneler hazırlanmıştır. Ardından sahneler oyun alanına eklenmiştir.  Giriş, bitiş ve ara menü seçenkleri eklenmiştir. Boss eklenmiş, boss hasar verme eklenmiştir. Müzikler eklenmiştir. Oyun bittikten sonra oyun sonu testi yapılmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 68 Puan
 
