@@ -22,8 +22,8 @@ Takım 112
 
 - Klavye tuşları ile oynama
 - Boşluk ile zıplama
-- Düşmanlara karşı ateş etme
-- Envanter
+- Düşmanlara ve bossa karşı ateş etme
+- Boss can barı
 
 ## Hedef Kitle
 
